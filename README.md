@@ -11,9 +11,9 @@ To launch these notebooks in an executable environment on Binder, perform
 the following steps:
 
 1. Click on the "launch binder" badge in this README file on GitHub, or open
-<https://mybinder.org/v2/gh/alex-konovalov/gap-teaching/master> in the browser.
+<https://mybinder.org/v2/gh/olexandr-konovalov/gap-teaching/master> in the browser.
 
-2. First "Loading repository: alex-konovalov/gap-teaching/master" will be 
+2. First "Loading repository: olexandr-konovalov/gap-teaching/master" will be 
 displayed, followed by a non-interactive preview. When the environment
 will be ready, you will see the main Jupyter screen with a list of files.
 
@@ -26,4 +26,4 @@ the notebook in various formats. For further information about Jupyter, see
 <https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html>.
 
 Note that GitHub renders Jupyter notebooks in a human readable form, see e.g.
-<https://github.com/alex-konovalov/gap-teaching/blob/master/notebooks/TipsAndPitfalls.ipynb>. 
+<https://github.com/olexandr-konovalov/gap-teaching/blob/master/notebooks/TipsAndPitfalls.ipynb>. 
